@@ -46,6 +46,12 @@ REST API, OOP, Responsive Web Design, Cross-browser compatibility, **AI integrat
 - Email: **toneyavuz@gmail.com**  
 - Location: **Kadıköy, Istanbul, Turkey**
 
+## Coding
+- Use PascalCase for classes.
+- Use camelCase for variables, functions, and methods.
+- Use kebab-case for file and directory names.
+- Use UPPERCASE for environment variables.
+
 <!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=toneyavuz&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toneyavuz&layout=compact)
