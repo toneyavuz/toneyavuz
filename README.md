@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi there, I'm Kutbettin Yavuz 👋</h1>
 <p align="center">
-  Frontend / Mobile Developer · 11+ years of experience · Focused on performance & scalable architectures
+  Frontend / Mobile Developer · 12+ years of experience · Focused on performance & scalable architectures
 </p>
 
 <p align="center">
