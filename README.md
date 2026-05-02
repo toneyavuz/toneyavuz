@@ -52,6 +52,19 @@ REST API, OOP, Responsive Web Design, Cross-browser compatibility, **AI integrat
 - Use kebab-case for file and directory names.
 - Use UPPERCASE for environment variables.
 
+## GitHub & Research Activity
+
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=toneyavuz&theme=dark&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e)](https://github.com/toneyavuz)
+
+<!--
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=toneyavuz&theme=algolia&no-frame=true&no-bg=false&margin-w=4&column=7)](https://github.com/toneyavuz)
+-->
+
+</div>
+
+---
 <!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=toneyavuz&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toneyavuz&layout=compact)
